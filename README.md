@@ -12,7 +12,8 @@
 
 ### Portfolio
 
-![Quoc Ninja's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phucquoc-ng&theme=vue) ![Quoc Ninja's github stats](https://github-readme-stats.wasabeef.vercel.app/api?username=phucquoc-ng&show_icons=true&line_height=21&show_icons=true&theme=vue)
+![Quoc Ninja's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phucquoc-ng&layout=compact) ![Quoc Ninja's github stats](https://github-readme-stats.wasabeef.vercel.app/api?username=phucquoc-ng&show_icons=true&line_height=21&show_icons=true&theme=dracula)
+
 
 ### Passions
 
